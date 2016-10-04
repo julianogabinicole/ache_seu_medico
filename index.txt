@@ -1,7 +1,0 @@
-git config --global user.name "Juliano P."
-git config --global user.email "julianogabinicole@gmail.com"
-
-
-touch index.txt
-git add .
-git commit -m "Primeiro commit"
